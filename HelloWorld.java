@@ -1,4 +1,4 @@
-//package com.vince.tutorials;
+package com.vince.tutorials;
 
 public class HelloWorld {
     public static void main(String[] args){
